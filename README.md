@@ -1,0 +1,1 @@
+This repository contains a Python example demonstrating the 'TypeError: unsupported operand type(s) for +: 'int' and 'str'' error and its solution.  The bug.py file shows the erroneous code where a string is included in a list intended for numerical calculations. bugSolution.py provides a corrected version with improved input handling to prevent this error.
